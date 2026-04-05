@@ -269,7 +269,4 @@ ping 192.168.3.15
 |---|---|
 | `*.pkt` | Cisco Packet Tracer project file |
 | `README.md` | This file |
-
 ---
-
-*Part of the [Computer Networks Guide Book](https://comp-networks.breezy-codes.com) Cisco Packet Tracer series.*
